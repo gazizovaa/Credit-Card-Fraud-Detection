@@ -17,3 +17,5 @@
 - obtained basic functions of streamlit – from layout configuration to writing interactive UI components.
 
 - how to use the Kaggle API to directly download this dataset into the app environment.
+
+https://www.linkedin.com/feed/update/urn:li:activity:7324889259205697536/
