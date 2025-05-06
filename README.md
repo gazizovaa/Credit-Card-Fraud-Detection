@@ -18,4 +18,4 @@
 
 - how to use the Kaggle API to directly download this dataset into the app environment.
 
-https://www.linkedin.com/feed/update/urn:li:activity:7324889259205697536/
+video recording - https://www.linkedin.com/feed/update/urn:li:activity:7324889259205697536/
